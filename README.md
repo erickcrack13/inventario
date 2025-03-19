@@ -1,3 +1,5 @@
+
+esto es solo la primera pagina la raiz de la pagina web en mi .rar encontraras las demas paginas
 <!DOCTYPE html>
 <html lang="es">
 <head>
